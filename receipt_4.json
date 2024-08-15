@@ -1,0 +1,58 @@
+{
+    "receipt_no": "#12345",
+    "items": [
+        {
+            "amount": 600.0,
+            "category": null,
+            "description": "Businesscard Design",
+            "qty": 2,
+            "price": 300.0
+        },
+        {
+            "amount": 450.0,
+            "category": null,
+            "description": "Fruit Flayer Design",
+            "qty": 1,
+            "price": 455.0
+        },
+        {
+            "amount": 300.0,
+            "category": null,
+            "description": "Application Interface Design",
+            "qty": 1,
+            "price": 300.0
+        },
+        {
+            "amount": 450.0,
+            "category": null,
+            "description": "Theme Development",
+            "qty": 3,
+            "price": 150.0
+        },
+        {
+            "amount": 150.0,
+            "category": null,
+            "description": "Full Branding Design",
+            "qty": 1,
+            "price": 150.0
+        },
+        {
+            "amount": 100.0,
+            "category": null,
+            "description": "Creative Logo Design",
+            "qty": 1,
+            "price": 100.0
+        },
+        {
+            "amount": 100.0,
+            "category": null,
+            "description": "Kit Design & Development",
+            "qty": 2,
+            "price": 50.0
+        }
+    ],
+    "currency": "USD",
+    "total": 3465.0,
+    "subtotal": 3150.0,
+    "tax": 315.0
+}
